@@ -46,9 +46,6 @@ Ensure you have the following installed:
 - Avoid clicking on mines!
 - Win by revealing all non-mine tiles
 
-## 📷 Screenshots
-_(Add gameplay screenshots here)_
-
 ## 📝 License
 This project is licensed under the **MIT License**.
 
